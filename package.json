@@ -27,7 +27,8 @@
     "phantom": ">= 0.0.1",
     "cheerio": ">= 0.0.1",
     "soupselect": ">= 0.0.1",
-	"htmlparser": ">= 0.0.1"
+	"htmlparser": ">= 0.0.1",
+	"phantomjs": ">= 0.0.1"
   },
   "engines": {
     "node": ">= 0.8.x",
